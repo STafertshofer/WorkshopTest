@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+Hallo hier ist ein Merge Konflikt
+Hi Name is actually not Eva
+Hi Name is Eva
+=======
+Hi Name is Eva
+Hallo hier ist ein Merge Konflikt
+Hi Name is actually not Eva
+>>>>>>> 7f23d2beb1a5435d2a31c9940a3dbc81337b98bc
+now there are two lines
+
+Hi me is Steffi
