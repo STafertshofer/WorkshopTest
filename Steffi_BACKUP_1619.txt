@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Hi Name is actually not Eva
-=======
-now there are two lines
 
+Hi Name is actually not Eva
+now there are two lines
 Hi me is Steffi
->>>>>>> master
